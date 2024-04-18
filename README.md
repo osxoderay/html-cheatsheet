@@ -1,2 +1,2 @@
-# html-cheatsheet
-Apuntes de HTML
+# HTML Cheatsheet
+Apuntes
